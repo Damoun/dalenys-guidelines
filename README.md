@@ -1,4 +1,4 @@
-# Rentabiliweb guidlines for OSS projects ![License badge][license-img]
+# Rentabiliweb guidlines ![License badge][license-img]
 
 
 * Our projects are all under the ISC License, so you can use the LICENSE file.
