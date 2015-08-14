@@ -1,9 +1,9 @@
-# Rentabiliweb guidlines ![License badge][license-img]
+# Rentabiliweb guidelines ![License badge][license-img]
 
 
 * Our projects are all under the ISC License, so you can use the LICENSE file.
 
-* Never forget the millipede !
+* Never forget the millipede!
 
 
 ```
