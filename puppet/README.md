@@ -33,6 +33,16 @@ GitHub.
 
 Thanks https://github.com/puppetlabs/ for help to write this README :)
 
+```
+    ╚⊙ ⊙╝
+  ╚═(███)═╝
+ ╚═(███)═╝
+╚═(███)═╝
+ ╚═(███)═╝
+  ╚═(███)═╝
+   ╚═(███)═╝
+```
+
 [license-img]: https://img.shields.io/badge/license-ISC-blue.svg "License"
 [puppet-img]: https://img.shields.io/puppetforge/dt/rentabiliweb/@NAME@.svg "Puppet Forge"
 [puppet-url]: https://forge.puppetlabs.com/rentabiliweb/@NAME@ "Puppet Forge"
