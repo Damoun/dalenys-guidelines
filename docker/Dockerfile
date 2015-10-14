@@ -1,4 +1,4 @@
-# Copyright (c) 2015, Rentabiliweb Group
+# Copyright (c) 2015, Dalenys
 #
 # Permission  to use,  copy, modify,  and/or  distribute this  software for  any
 # purpose  with  or without  fee  is hereby  granted,  provided  that the  above
@@ -12,8 +12,10 @@
 # OTHER  TORTIOUS ACTION,  ARISING  OUT OF  OR  IN CONNECTION  WITH  THE USE  OR
 # PERFORMANCE OF THIS SOFTWARE.
 
-FROM rentabiliweb/debian:wheezy
-MAINTAINER Rentabiliweb Group
+# @NAME_URL@
+
+FROM dalenys/debian:wheezy
+MAINTAINER Dalenys
 
 ENV DEBIAN_FRONTEND noninteractive
 
