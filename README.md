@@ -1,4 +1,4 @@
-# Rentabiliweb guidelines ![License badge][license-img]
+# Dalenys guidelines ![License badge][license-img]
 
 
 * Our projects are all under the ISC License, so you can use the LICENSE file.
